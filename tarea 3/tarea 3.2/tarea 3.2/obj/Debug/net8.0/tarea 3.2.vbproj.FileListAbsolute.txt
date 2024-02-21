@@ -1,0 +1,14 @@
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.AssemblyInfoInputs.cache
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.AssemblyInfo.vb
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\bin\Debug\net8.0\tarea 3.2.exe
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\bin\Debug\net8.0\tarea 3.2.deps.json
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\bin\Debug\net8.0\tarea 3.2.runtimeconfig.json
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\bin\Debug\net8.0\tarea 3.2.dll
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\bin\Debug\net8.0\tarea 3.2.pdb
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.dll
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\refint\tarea 3.2.dll
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.pdb
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\tarea 3.2.genruntimeconfig.cache
+C:\Users\perez\Desktop\tarea 3\tarea 3.2\tarea 3.2\obj\Debug\net8.0\ref\tarea 3.2.dll

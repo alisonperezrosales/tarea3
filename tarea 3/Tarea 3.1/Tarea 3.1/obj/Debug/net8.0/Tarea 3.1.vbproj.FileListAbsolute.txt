@@ -1,0 +1,14 @@
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.AssemblyInfoInputs.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.AssemblyInfo.vb
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\bin\Debug\net8.0\Tarea 3.1.exe
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\bin\Debug\net8.0\Tarea 3.1.deps.json
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\bin\Debug\net8.0\Tarea 3.1.runtimeconfig.json
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\bin\Debug\net8.0\Tarea 3.1.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\bin\Debug\net8.0\Tarea 3.1.pdb
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\refint\Tarea 3.1.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.pdb
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\Tarea 3.1.genruntimeconfig.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 3.1\Tarea 3.1\obj\Debug\net8.0\ref\Tarea 3.1.dll
